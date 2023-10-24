@@ -1,0 +1,22 @@
+{
+  "name": "writelite",
+  "version": "1.0.0",
+  "description": "a journaling app in cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "writelite"
+  },
+  "keywords": [
+    "cli",
+    "journal",
+    "writing",
+    "app",
+    "daily"
+  ],
+  "author": "pretenderer",
+  "license": "MIT"
+}
