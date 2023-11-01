@@ -24,6 +24,5 @@ To use Writelite, follow these steps:
 3. To run Writelite go to the directory:
    ```~~
    node writelite
-   
 
 4. Enter your entry and writelite will automatically save your entry with today's date as its title in the following format: "YYYYMMDD.md"

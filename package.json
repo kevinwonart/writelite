@@ -2,9 +2,10 @@
   "name": "writelite",
   "version": "1.0.0",
   "description": "a journaling app in cli",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "test.js"
+    "test": "test.js",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,13 @@
     "journal",
     "writing",
     "app",
-    "daily"
+    "scratchpad",
+    "noteapp",
+    "notes"
   ],
   "author": "pretenderer",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
 }
