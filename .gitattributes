@@ -1,3 +1,4 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
 /node_modules/@types/node/buffer.d.ts filter=lfs diff=lfs merge=lfs -text
 /node_modules/@types/node/crypto.d.ts filter=lfs diff=lfs merge=lfs -text
 /node_modules/@types/node/fs.d.ts filter=lfs diff=lfs merge=lfs -text
